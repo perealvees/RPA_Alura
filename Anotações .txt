@@ -1,0 +1,65 @@
+- - - Módulo '1' - - - 
+
+RPA - Robotic Process Automation;
+Consiste no uso de softaware, para otimizar processos repetitivos;
+Não interfere na estrutura/arquitetura de software;
+Envolve implemetações rapidas, perifericas e baratas;
+Tem mais escabilidade, ou seja, pode fazer mais robos para maiores demandas;
+
+UiPath: Muitas novidades, sem suporte;
+
+Automation Anywhere: Robusta plataforma cloud, usabilidade, inovadora, competitiva
+Dificuldades com deploys e upgrades
+
+Blue Prism: Bons recursos, ampla comunidade e expert em 42 indústrias;
+Não possui gravador de processos e é caro, falta de suporte e usabilidade mais complexa
+
+UiPath > sequência de tarefas 
+__________________________________
+
+- - - Módulo '2' - - - 
+
+Road roadmap para RPA
+
+RPA = TI e Negócios devem trabalhar juntos;
+TI: cuida e implementa a ferramenta, assim como analisa os impactos;
+
+Alternativas para implementação de RPA: 
+
+On-premisse (local):
+Vantagem = mais opções na plataforma, goerno local; mais barato a longo prazo 
+Desvantagem = Implementação lenta, setup complicado, requer pessoas treinadas.
+
+Cloud (nuvem):
+Vantagem = implementação mais rapida, compartilhada e setup simples
+Desvantagem = plataforma e politica limitada e mais caro a longo prazo
+
+Na nuvem o RPA costuma adquirir o SAAS
+
+o RPA situa-se acima do RDA (automação de desktop), mas abaixo dos níveis de Machine
+Learning e Inteligência Artificial, embora possa utilizar elementos destes últimos em soluções mais sofisticadas.
+
+
+- - - Módulo '3' - - - 
+
+Funcionalidades RPA:
+Configuração via "drag and drop", sem necessidade de codificar
+Gravação de fluxo de trabalho
+Modelos pré configurados
+Presenças de elementos AI
+Integração com ERPS e CRMs
+Analise de desempenho
+
+- - - Módulo '4' - - - 
+
+RPA = ainda não tem muita expresão no mundo open source
+A maioria faz uso de versões gratuitas
+Exemplos de RPA Open Source: 
+Robot Framework Foundation, pode ser usada em Python
+TagUI - ai Singapure, tem integração com Python e RDA
+Taskt construido em C#
+
+
+
+
+
