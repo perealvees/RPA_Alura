@@ -1,2 +1,2 @@
 # RPA com Jupyter
- Automatizando programas e sistemas com Python
+ Conhecendo as ferramentas como Automate Anywhere, Blue Prism e Eclipse.
